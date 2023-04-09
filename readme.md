@@ -4,7 +4,7 @@ This Python script generates a visualization of the planned Amtrak High-Speed Ra
 
 ![alt text](https://github.com/asharahmed/hsr-visualization/blob/main/ss.png?raw=true)
 
-Based on the data provided [by Amtrak](https://www.masstransitmag.com/rail/infrastructure/press-release/21162379/us-high-speed-rail-association-ushsr-releases-fivepoint-highspeed-rail-plan-with-project-list), the script generates a plot of the planned HSR routes in the United States. The plot is interactive and can be zoomed in and out. The plot is also saved as an HTML file.
+Based on the data provided [by Amtrak](https://www.masstransitmag.com/rail/infrastructure/press-release/21162379/us-high-speed-rail-association-ushsr-releases-fivepoint-highspeed-rail-plan-with-project-list), the script generates a plot of the planned HSR routes in the United States. The plot is interactive and can be zoomed in and out. The plot is also viewable as an HTML file.
 
 ## Installation
 

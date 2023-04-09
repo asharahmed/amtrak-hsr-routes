@@ -1,0 +1,16 @@
+project,start_city,end_city,investment
+San Francisco to Los Angeles,San Francisco,Los Angeles,60.0
+Dallas to Houston,Dallas,Houston,20.0
+New York City to Washington DC,New York City,Washington DC,50.0
+Seattle to Portland,Seattle,Portland,40.0
+Tampa to Orlando,Tampa,Orlando,2.5
+Chicago to Milwaukee,Chicago,Milwaukee,8.0
+Atlanta to Charlotte,Atlanta,Charlotte,18.0
+Louisville to Nashville,Louisville,Nashville,15.0
+Denver to Albuquerque,Denver,Albuquerque,40.0
+Chicago to St. Louis,Chicago,St. Louis,18.0
+Tulsa to Oklahoma City,Tulsa,Oklahoma City,8.0
+Chicago to Detroit,Chicago,Detroit,30.0
+Nashville to Memphis,Nashville,Memphis,15.0
+Kansas City to St. Louis,Kansas City,St. Louis,19.0
+Chicago to Indianapolis,Chicago,Indianapolis,17.0

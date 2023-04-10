@@ -16,7 +16,7 @@ Based on the data provided [by Amtrak](https://www.masstransitmag.com/rail/infra
 
 1. Ensure you have Python 3.x installed.
 2. Navigate to the project directory: `cd amtrak-hsr-routes`
-3. Run the script: `python amtrak_hsr_routes.py`
+3. Run the script: `python main.py`
 4. The plot will be displayed in a new browser window.
 
 ## License

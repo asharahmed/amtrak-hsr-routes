@@ -10,3 +10,6 @@ fig.update_layout(xaxis_title='Start City', yaxis_title='End City')
 
 # display the plot
 fig.show()
+
+# You can also generate HTML files with the plotly.io.write_html() function
+# fig.write_html('amtrak_hsr_routes.html')
